@@ -8,7 +8,7 @@ version = "0.0.3"
 description = "A Python package for loading, processing, and visualizing galaxy spectral energy distributions from SDSS data."
 readme = "README.md"
 authors = [
-  {name = "Esraa Younes"}
+  {name = "Esraa Younes"},
   {name = "Maria Atef"}
 ]
 dependencies = [
